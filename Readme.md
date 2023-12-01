@@ -1,4 +1,3 @@
-```markdown
 # Emotion Detector Flask Microservice
 
 ## Overview
@@ -40,5 +39,3 @@ To use a different Hugging Face model:
 
 ## Contributing
 Contributions are welcome. Please fork the repository and submit pull requests.
-
-```
