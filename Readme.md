@@ -24,6 +24,7 @@ This Flask microservice integrates NLP models from Hugging Face, demonstrating a
    `python run.py`
 2. **API Endpoint**:
    Accessible at `http://127.0.0.1:5000/`.
+   You can communicate with `/emotion` endpoint for now from `route.py` and eventually add some more.
 
 ## Customizing the Model
 To use a different Hugging Face model:
